@@ -1,1 +1,6 @@
 ryemote.ddns.net -> Client for stream handling
+ryemote.cu.ma -> Client in googiehost order number:6136140211
+
+https://www.howtogeek.com/261383/how-to-access-your-ubuntu-bash-files-in-windows-and-your-windows-system-drive-in-bash/
+https://www.digitalocean.com/community/tutorials/como-instalar-nginx-en-ubuntu-16-04-es
+https://certbot.eff.org/lets-encrypt/ubuntuother-nginx
